@@ -1,0 +1,22 @@
+.formSection {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.inputForm input {
+    width: 15rem;
+    height: 2rem;
+}
+.submitButton {
+    background-color: blue;
+    padding: 5px 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.formSection h2 {
+    color: white;
+}
